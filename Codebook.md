@@ -1,16 +1,6 @@
 # Data Dictionary - Human Activity Recognition Using Smartphones Data Set
-
-# Activity labels
-act_code: Activity Code
-    1 WALKING
-    2 WALKING_UPSTAIRS
-    3 WALKING_DOWNSTAIRS
-    4 SITTING
-    5 STANDING
-    6 LAYING
-act_desc: Activity Description
     
-# Feature information
+# Feature information in tidydata
 - The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals timeAccelerometer-XYZ and timeGyroscope-XYZ.
 - The acceleration signal was then separated into body and gravity acceleration signals (timeBodyAccelerometer-XYZ and timeGravityAccelerometer-XYZ) 
 - The body linear acceleration and angular velocity were derived in time to obtain Jerk signals 
